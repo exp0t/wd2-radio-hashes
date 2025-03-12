@@ -18,7 +18,7 @@
 | Dual Core              | All the Things             | 629706316                                                
 | Giorgio Moroder        | 74 Is the New 24           | 643021033                                                 
 | Gonjasufi              | Krishna Punk               | 961101332                                                 
-| LFO                    | LFO                        | (idk I didn't find it)                                                
+| LFO                    | LFO                        | 574324750                                                
 | Lone                   | Coreshine Voodoo           | 631857271                                                 
 | Metro Area             | Miura                      | 531541791                                                 
 | M.O.O.N.               | Cholophyll                 | 12686015                                               
