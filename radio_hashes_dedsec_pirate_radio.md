@@ -9,8 +9,7 @@
 | Artist                 | Song Name                  | ID (1536kbps)<br/>Stereo 48.000kHz<br/>[Radio & Playlist] 
 | ---------------------- | -------------------------- | --------------------------------------------------------- 
 | !!!                    | All U Writers              | 614686680                                                
-| Aphex Twin             | CIRKLON3                   | 361891854                                                
-| Azealia Banks          | Miss Amor                  | 631857271                                                
+| Aphex Twin             | CIRKLON3                   | 361891854                                                                                            
 | Bibio                  | Why So Serious?            | 960767519                                                 
 | Clark                  | Winter Linn                | 595713635                                                 
 | Cybotron               | Clear                      | 781833550                                                 
