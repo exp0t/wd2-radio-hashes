@@ -1,0 +1,553 @@
+{
+  "radio_stations": {
+    "Bay City Pop KBY-FM": [
+      {
+        "artist_id": 691435,
+        "artist_name": "Bibio",
+        "song_id": 691434,
+        "song_title": "Why So Serious",
+        "song_hash": 960767519
+      },
+      {
+        "artist_id": 643521,
+        "artist_name": "Crystal Castles",
+        "song_id": 643520,
+        "song_title": "Crimewave",
+        "song_hash": 622559544
+      },
+      {
+        "artist_id": 693586,
+        "artist_name": "Culture Club",
+        "song_id": 693585,
+        "song_title": "Miss Me Blind",
+        "song_hash": 950181226
+      },
+      {
+        "artist_id": 693592,
+        "artist_name": "Day Wave",
+        "song_id": 693591,
+        "song_title": "Hard to Read",
+        "song_hash": 833255248
+      },
+      {
+        "artist_id": 643518,
+        "artist_name": "Deadmau5",
+        "song_id": 643517,
+        "song_title": "Seeya",
+        "song_hash": 104879718
+      },
+      {
+        "artist_id": 697777,
+        "artist_name": "Duran Duran",
+        "song_id": 697776,
+        "song_title": "Planet Earth",
+        "song_hash": 966785661
+      },
+      {
+        "artist_id": 643501,
+        "artist_name": "Kate Boy",
+        "song_id": 643500,
+        "song_title": "Northern Lights",
+        "song_hash": 788467299
+      },
+      {
+        "artist_id": 643504,
+        "artist_name": "Lower Dens",
+        "song_id": 643503,
+        "song_title": "To Die in L.A.",
+        "song_hash": 722741622
+      },
+      {
+        "artist_id": 693589,
+        "artist_name": "Major Lazer",
+        "song_id": 693588,
+        "song_title": "Aerosol Can",
+        "song_hash": 133118895
+      },
+      {
+        "artist_id": 700168,
+        "artist_name": "Oliver Heldens",
+        "song_id": 700167,
+        "song_title": "Good Life",
+        "song_hash": 379980042
+      },
+      {
+        "artist_id": 643510,
+        "artist_name": "Prayers",
+        "song_id": 643509,
+        "song_title": "Gothic Summer",
+        "song_hash": 745808353
+      },
+      {
+        "artist_id": 643513,
+        "artist_name": "Skylar Spence",
+        "song_id": 643512,
+        "song_title": "Fiona Coyne",
+        "song_hash": 248276914
+      },
+      {
+        "artist_id": 643507,
+        "artist_name": "Small Black",
+        "song_id": 643506,
+        "song_title": "Boys Life",
+        "song_hash": 965895082
+      },
+      {
+        "artist_id": 643475,
+        "artist_name": "The Polish Ambassador",
+        "song_id": 643474,
+        "song_title": "Let The Rhythm Just",
+        "song_hash": 747011287
+      },
+      {
+        "artist_id": 697780,
+        "artist_name": "Tower of Power",
+        "song_id": 697779,
+        "song_title": "So Very Hard To Go",
+        "song_hash": 933273308
+      }
+    ],
+    "Rock The Bridge K66-FM": [
+      {
+        "artist_id": 693519,
+        "artist_name": "Creedence Clearwater Revival",
+        "song_id": 693518,
+        "song_title": "Fortunate Son",
+        "song_hash": 1014006573
+      },
+      {
+        "artist_id": 642378,
+        "artist_name": "American Steel",
+        "song_id": 642377,
+        "song_title": "Rogue's March",
+        "song_hash": 691338686
+      },
+      {
+        "artist_id": 697752,
+        "artist_name": "Anti-Flag",
+        "song_id": 697751,
+        "song_title": "Kill the Rich",
+        "song_hash": 957013239
+      },
+      {
+        "artist_id": 416992,
+        "artist_name": "Dead Kennedys",
+        "song_id": 338412,
+        "song_title": "Soup Is Good Food",
+        "song_hash": 996423998
+      },
+      {
+        "artist_id": 691667,
+        "artist_name": "Direct Hit!",
+        "song_id": 691666,
+        "song_title": "Forced To Sleep",
+        "song_hash": 969109863
+      },
+      {
+        "artist_id": 642375,
+        "artist_name": "Down and Outlaws",
+        "song_id": 642374,
+        "song_title": "I Don't Care (I Don't Care)",
+        "song_hash": 844659044
+      },
+      {
+        "artist_id": 697722,
+        "artist_name": "Jawbreaker",
+        "song_id": 697721,
+        "song_title": "Chesterfield King",
+        "song_hash": 549773398
+      },
+      {
+        "artist_id": 697755,
+        "artist_name": "Judas Priest",
+        "song_id": 697754,
+        "song_title": "Turbo Lover",
+        "song_hash": 173511806
+      },
+      {
+        "artist_id": 691612,
+        "artist_name": "Lagwagon",
+        "song_id": 691611,
+        "song_title": "Reign",
+        "song_hash": 369921543
+      },
+      {
+        "artist_id": 697719,
+        "artist_name": "Leatherface",
+        "song_id": 697718,
+        "song_title": "Not Superstitious",
+        "song_hash": 264743284
+      },
+      {
+        "artist_id": 697746,
+        "artist_name": "Megadeth",
+        "song_id": 697745,
+        "song_title": "Fatal Illusion",
+        "song_hash": 373603938
+      },
+      {
+        "artist_id": 697707,
+        "artist_name": "New Bomb Turks",
+        "song_id": 697706,
+        "song_title": "Sucker Punch",
+        "song_hash": 301229821
+      },
+      {
+        "artist_id": 693580,
+        "artist_name": "NOFX",
+        "song_id": 693579,
+        "song_title": "Leave It Alone",
+        "song_hash": 519387185
+      },
+      {
+        "artist_id": 691673,
+        "artist_name": "No Use For A Name",
+        "song_id": 691672,
+        "song_title": "Invincible",
+        "song_hash": 477211915
+      },
+      {
+        "artist_id": 693571,
+        "artist_name": "PEARS",
+        "song_id": 693570,
+        "song_title": "Green Star",
+        "song_hash": 385780259
+      },
+      {
+        "artist_id": 697725,
+        "artist_name": "Rancid",
+        "song_id": 697724,
+        "song_title": "Journey to the End of the East Bay",
+        "song_hash": 968366629
+      },
+      {
+        "artist_id": 643469,
+        "artist_name": "Sorority Noise",
+        "song_id": 643468,
+        "song_title": "Art School Wannabe",
+        "song_hash": 622996350
+      },
+      {
+        "artist_id": 693577,
+        "artist_name": "Turbonegro",
+        "song_id": 693576,
+        "song_title": "Denim Demon",
+        "song_hash": 1054115363
+      }
+    ],
+    "DedSec Pirate Radio": [
+      {
+        "artist_id": 691444,
+        "artist_name": "!!!",
+        "song_id": 691443,
+        "song_title": "All U Writers",
+        "song_hash": 614686680
+      },
+      {
+        "artist_id": 691438,
+        "artist_name": "Aphex Twin",
+        "song_id": 691437,
+        "song_title": "CIRKLON3",
+        "song_hash": 361891854
+      },
+      {
+        "artist_id": 691441,
+        "artist_name": "Clark",
+        "song_id": 691440,
+        "song_title": "Winter Linn",
+        "song_hash": 595713635
+      },
+      {
+        "artist_id": 643535,
+        "artist_name": "Cybotron",
+        "song_id": 643534,
+        "song_title": "Clear",
+        "song_hash": 781833550
+      },
+      {
+        "artist_id": [416884, 417008],
+        "artist_name": "DKMD",
+        "song_id": [339445, 338370],
+        "song_title": "I'm Watching You",
+        "song_hash": 1040156207
+      },
+      {
+        "artist_id": 691443,
+        "artist_name": "Giorgio Moroder",
+        "song_id": 643542,
+        "song_title": "74 Is The New 24",
+        "song_hash": 643021033
+      },
+      {
+        "artist_id": 691423,
+        "artist_name": "Gonjasufi",
+        "song_id": 691422,
+        "song_title": "Krishna Punk",
+        "song_hash": 961101332
+      },
+      {
+        "artist_id": 691426,
+        "artist_name": "LFO",
+        "song_id": 691425,
+        "song_title": "LFO (Leeds Warehouse Mix)",
+        "song_hash": 574324750
+      },
+      {
+        "artist_id": 698167,
+        "artist_name": "Lone",
+        "song_id": 698166,
+        "song_title": "Coreshine Voodoo",
+        "song_hash": 631857271
+      },
+      {
+        "artist_id": 691420,
+        "artist_name": "Metro Area",
+        "song_id": 691419,
+        "song_title": "Miura",
+        "song_hash": 531541791
+      },
+      {
+        "artist_id": 643548,
+        "artist_name": "M|O|O|N",
+        "song_id": 643547,
+        "song_title": "Chlorophyll",
+        "song_hash": 12686015
+      },
+      {
+        "artist_id": 697716,
+        "artist_name": "M|O|O|N",
+        "song_id": 697715,
+        "song_title": "Voices",
+        "song_hash": 273739534
+      },
+      {
+        "artist_id": 691417,
+        "artist_name": "Plaid",
+        "song_id": 691416,
+        "song_title": "CLOCK",
+        "song_hash": 555439177
+      },
+      {
+        "artist_id": 691414,
+        "artist_name": "Rustie",
+        "song_id": 691413,
+        "song_title": "Attak feat. Danny Brown",
+        "song_hash": 208879660
+      },
+      {
+        "artist_id": 691411,
+        "artist_name": "Squarepusher",
+        "song_id": 691410,
+        "song_title": "Stor Eiglass",
+        "song_hash": 224240216
+      },
+      {
+        "artist_id": 691453,
+        "artist_name": "The Galleria",
+        "song_id": 691452,
+        "song_title": "Calling Card",
+        "song_hash": 141967268
+      },
+      {
+        "artist_id": 697749,
+        "artist_name": "The Prodigy",
+        "song_id": 697748,
+        "song_title": "The Day Is My Enemy",
+        "song_hash": 622459999
+      }
+    ],
+    "Radio Bay Nation KBNT": [
+      {
+        "artist_id": 697763,
+        "artist_name": "C-Kan",
+        "song_id": 697762,
+        "song_title": "La Calle Sabe De Mi Nombre",
+        "song_hash": 191814515
+      },
+      {
+        "artist_id": 697766,
+        "artist_name": "C-Kan",
+        "song_id": 697765,
+        "song_title": "Un Par De Balas",
+        "song_hash": 743080034
+      },
+      {
+        "artist_id": 643478,
+        "artist_name": "Cannonhead",
+        "song_id": 643477,
+        "song_title": "This Place Is Built",
+        "song_hash": 464758654
+      },
+      {
+        "artist_id": 693601,
+        "artist_name": "Casey Veggies",
+        "song_id": 693600,
+        "song_title": "Sauna",
+        "song_hash": 844690779
+      },
+      {
+        "artist_id": 693598,
+        "artist_name": "Dizzee Rascal",
+        "song_id": 693597,
+        "song_title": "I Don't Need A Reason",
+        "song_hash": 256233116
+      },
+      {
+        "artist_id": 697710,
+        "artist_name": "DJ Quick",
+        "song_id": 697709,
+        "song_title": "Dallaz + Sense",
+        "song_hash": 462839240
+      },
+      {
+        "artist_id": 643563,
+        "artist_name": "Dual Core",
+        "song_id": 643562,
+        "song_title": "All the Things",
+        "song_hash": 629706316
+      },
+      {
+        "artist_id": 642381,
+        "artist_name": "Eric B. & Rakim",
+        "song_id": 642380,
+        "song_title": "Don't Sweat the Technique",
+        "song_hash": 608389689
+      },
+      {
+        "artist_id": 693244,
+        "artist_name": "Los Rakas",
+        "song_id": 693245,
+        "song_title": "Kalle",
+        "song_hash": 462316760
+      },
+      {
+        "artist_id": 693247,
+        "artist_name": "Los Rakas",
+        "song_id": 693248,
+        "song_title": "Soy Raka",
+        "song_hash": 335075562
+      },
+      {
+        "artist_id": 642384,
+        "artist_name": "Mac Dre",
+        "song_id": 642383,
+        "song_title": "Get Stupid",
+        "song_hash": 201419503
+      },
+      {
+        "artist_id": 693595,
+        "artist_name": "Naughty By Nature",
+        "song_id": 693594,
+        "song_title": "Uptown Anthem",
+        "song_hash": 815062671
+      },
+      {
+        "artist_id": 693568,
+        "artist_name": "N.E.R.D.",
+        "song_id": 693567,
+        "song_title": "Spaz",
+        "song_hash": 883405661
+      },
+      {
+        "artist_id": 697945,
+        "artist_name": "OutKast",
+        "song_id": 697944,
+        "song_title": "Rosa Parks",
+        "song_hash": 1032866523
+      },
+      {
+        "artist_id": 642387,
+        "artist_name": "Pep Love",
+        "song_id": 642386,
+        "song_title": "Hip Hop My Friends",
+        "song_hash": 471898852
+      },
+      {
+        "artist_id": 641833,
+        "artist_name": "Run The Jewels",
+        "song_id": 641832,
+        "song_title": "Blockbuster Night, Pt. 1",
+        "song_hash": 1069209480
+      },
+      {
+        "artist_id": 697948,
+        "artist_name": "Shirt",
+        "song_id": 697947,
+        "song_title": "Phantom (Redux)",
+        "song_hash": 464997009
+      },
+      {
+        "artist_id": 697713,
+        "artist_name": "Tate Kobang",
+        "song_id": 697712,
+        "song_title": "Bank Rolls (Remix)",
+        "song_hash": 1032112746
+      },
+      {
+        "artist_id": 643631,
+        "artist_name": "Ty Dolla $ign",
+        "song_id": 643630,
+        "song_title": "Paranoid (feat. B.o.B.)",
+        "song_hash": 168985700
+      }
+    ],
+    "Las Ondas De La Ria KODR": [
+      {
+        "artist_id": 644457,
+        "artist_name": "10cc",
+        "song_id": 644456,
+        "song_title": "Dreadlock Holiday",
+        "song_hash": null
+      },
+      {
+        "artist_id": 643487,
+        "artist_name": "Anthony B",
+        "song_id": 643486,
+        "song_title": "Police",
+        "song_hash": null
+      },
+      {
+        "artist_id": 697743,
+        "artist_name": "Bob Marley and the Wailers",
+        "song_id": 697742,
+        "song_title": "Lively up Yourself",
+        "song_hash": null
+      },
+      {
+        "artist_id": 697731,
+        "artist_name": "Chivirico Davila",
+        "song_id": 697730,
+        "song_title": "Cuándo Tú Quieras",
+        "song_hash": null
+      },
+      {
+        "artist_id": 643493,
+        "artist_name": "Daniela Mercury",
+        "song_id": 643492,
+        "song_title": "Rapunzel",
+        "song_hash": null
+      },
+      {
+        "artist_id": 643482,
+        "artist_name": "Jungle Fire",
+        "song_id": 643481,
+        "song_title": "Los Feligreses",
+        "song_hash": null
+      },
+      {
+        "artist_id": 697734,
+        "artist_name": "KC & The Sunshine Band",
+        "song_id": 697733,
+        "song_title": "I Get Lifted",
+        "song_hash": null
+      },
+      {
+        "artist_id": 697728,
+        "artist_name": "Sublime",
+        "song_id": 697727,
+        "song_title": "Wrong Way",
+        "song_hash": null
+      }
+    ]
+  }
+}
