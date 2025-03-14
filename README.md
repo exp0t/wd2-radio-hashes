@@ -11,5 +11,5 @@ You can also use music_database.json in your projects (if you figure out how to 
 Некоторые песни не появляются в плейлисте в игре, я не знаю с чем это связано (или просто я их не видел). Полагаю, что некоторые песни появляются после прохождения миссии где она играла - например The Prodigy - The Day Is My Enemy после миссии с роботом-пауком (это просто предположение)
 Вы так же можете использовать music_database.json в своих проектах (если додумаетесь как использовать, дайте мне знать) Единственное, что я не сделал - не подобрал хеши звуковых файлов на Las Ondas De La Ria KODR
 
-Contact discord: yotta_imoto
-VK: https://vk.com/yotta_imoto
+|Contact discord: yotta_imoto |
+|VK: https://vk.com/yotta_imoto |
